@@ -8,6 +8,7 @@ A student that completes this project shows they can:
 * implement Automated Integration Testing for REST APIs using JUnit and RestAssured
 
 ## Introduction
+-[x] Initial commit
 
 This is a basic database scheme with users, user emails, and user roles. This Java Spring REST API application will provide endpoints for clients to read various data sets contained in the application's data.
 
