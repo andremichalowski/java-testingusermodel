@@ -1,7 +1,7 @@
 # Project Testing User Model
 
 A student that completes this project shows they can:
-
+- [x] Initial commit
 * explain what automated testing is and why it is important
 * use JUnit to write, run, and interpret the output of unit tests for services with or without database access
 * use JUnit to write, run, and interpret the output of unit tests for controllers
